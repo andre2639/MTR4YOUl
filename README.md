@@ -97,3 +97,36 @@ _⭐️ it if you 👍️ it_ <br/>
 _Minimal star atau fork bang kalo mau gunain_
 
 </div>
+  "autoread": true,
+  "mongodb": "",
+  "ownerNumber": [""],
+  "host": "https://domain.tld",
+  "application": {
+    "api_key": ""
+  },
+  "serverCreate": {
+    "nestId": "",
+    "ram": "",
+    "disk": "",
+    "cpu": "",
+    "limits": {
+      "db": "",
+      "backups": "",
+      "allocations": ""
+    },
+    "egg": [
+      {
+        "eggId": "",
+        "environment": {
+          "NAME": "VALUE",
+        }
+      },
+      {
+        "eggId": "",
+        "environment": {
+          "NAME": "VALUE",
+        }
+      }
+    ]
+  }
+}
